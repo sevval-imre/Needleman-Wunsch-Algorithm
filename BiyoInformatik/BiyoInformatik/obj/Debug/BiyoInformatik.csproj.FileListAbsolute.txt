@@ -1,0 +1,11 @@
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.csproj.AssemblyReference.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.Form1.resources
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.Properties.Resources.resources
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.csproj.GenerateResource.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.csproj.CoreCompileInputs.cache
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\bin\Debug\BiyoInformatik.exe.config
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\bin\Debug\BiyoInformatik.exe
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\bin\Debug\BiyoInformatik.pdb
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.exe
+C:\Users\Sevval\OneDrive\Masaüstü\2022-2023 BM DERSLER\BAHAR\Biyoinformatik\190508003-Şevval İMRE-Biyoinformatik Proje_1\BiyoInformatik\BiyoInformatik\obj\Debug\BiyoInformatik.pdb
